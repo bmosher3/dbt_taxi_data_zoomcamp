@@ -4,10 +4,7 @@ version: 2
 sources:
     - name: staging
       #For bigquery:
-      #database: taxi-rides-ny-339813
-
-      # For postgres:
-      database: production
+      database: centered-router-339503
 
       schema: trips_data_all
 
